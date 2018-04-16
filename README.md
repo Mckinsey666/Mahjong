@@ -1,1 +1,1 @@
-A mahjong console application
+MAHJONG CONSOLE APP
